@@ -40,3 +40,12 @@ Entre otros estilos
 	* `Y a nv de bits: &`
 	* `No a nv de bits: ~`
 	* `Corrimiento de bits: <</>>`
+
+	**Ejemplo:**
+
+	```python
+	a = 5
+	b = 8
+
+	
+	```
