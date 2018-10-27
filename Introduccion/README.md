@@ -13,4 +13,6 @@ La función de este código solamente es mostrarnos un texto en la terminal, el 
 
 ### Variables, operaciones y estructuras de control soportadas por Python
 
-* __Variable:__ Una variable
+* __Variable:__ Una variable es aquella que nos permite almacenar datos en la memoria temporal, de tal forma que podamos utilizarlos después para realizar operaciones. Las variables se caracterizan por no llevar espacio y tener un formato muy parecido a este:
+
+	* `miVariable`
