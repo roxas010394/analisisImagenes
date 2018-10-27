@@ -4,6 +4,6 @@ Antes de comenzar a introducir los conceptos de análisi de imágenes, es buena 
 
 ### Hola mundo
 
-```
+```python
 print "Hola mundo"
 ```
