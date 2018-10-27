@@ -23,7 +23,7 @@ Entre otros estilos
 
 * **Operaciones:** Son las operaciones aritméticas que se pueden realizar, dichas operaciones con su signo correspondiente son las siguientes.
 	
-	* `Suma: +` 
+	* `Suma: + (en cadenas de texto funciona como concatenación)` 
 	* `Resta: -`
 	* `Multiplicación: *`
 	* `División: /`
@@ -44,8 +44,13 @@ Entre otros estilos
 	**Ejemplo:**
 
 	```python
-	a = 5
+	a = 5  #Este es un claro ejemplo de asignación
 	b = 8
 
-	
+	print "Suma: ", a + b 				#La pantlla nos muestra el resultado, el cual es 13
+	print "Resta: ", a - b 				#La pantlla nos muestra el resultado, el cual es -3
+	print "Multiplicación: ", a * b 	#La pantlla nos muestra el resultado, el cual es 40
+	print "División: ", a / b 			#La pantlla nos muestra el resultado, el cual es 0.625
+
+
 	```
