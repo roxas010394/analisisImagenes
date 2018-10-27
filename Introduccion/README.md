@@ -51,6 +51,9 @@ Entre otros estilos
 	print "Resta: ", a - b 				#La pantlla nos muestra el resultado, el cual es -3
 	print "Multiplicación: ", a * b 	#La pantlla nos muestra el resultado, el cual es 40
 	print "División: ", a / b 			#La pantlla nos muestra el resultado, el cual es 0.625
-
-
 	```
+* **Estructuras de control:** También llamadas estructuras de control de flujo, son aquellas que nos permiten establecer reglas para la ejecución del código dependiendo de una condicion dada se cumpla o no, incluso si el código se deba de repetir cierto número de veces o de manera indeterminada, dichas estructuras son.
+
+	* `if-else: Condicional if`
+	* `for: Ciclo`
+	* `while: Ciclo`
