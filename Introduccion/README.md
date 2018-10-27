@@ -18,6 +18,7 @@ La función de este código solamente es mostrarnos un texto en la terminal, el 
 	* `miVariable`
 	* `variable`
 	* `mi_Variable`
+
 Entre otros estilos
 
 * **Operaciones:** Son las operaciones aritméticas que se pueden realizar, dichas operaciones con su signo correspondiente son las siguientes.
