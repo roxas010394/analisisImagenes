@@ -6,4 +6,4 @@ Antes de comenzar a introducir los conceptos de análisi de imágenes, es buena 
 
 ```
 print "Hola mundo"
-´´´
+```
