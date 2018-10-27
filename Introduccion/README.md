@@ -13,4 +13,4 @@ La función de este código solamente es mostrarnos un texto en la terminal, el 
 
 ### Variables, operaciones y estructuras de control soportadas por Python
 
-* **Variable: ** Una variable
+* __Variable: __ Una variable
