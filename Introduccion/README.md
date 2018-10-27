@@ -16,3 +16,10 @@ La función de este código solamente es mostrarnos un texto en la terminal, el 
 * __Variable:__ Una variable es aquella que nos permite almacenar datos en la memoria temporal, de tal forma que podamos utilizarlos después para realizar operaciones. Las variables se caracterizan por no llevar espacio y tener un formato muy parecido a este:
 
 	* `miVariable`
+	* `variable`
+	* `mi_Variable`
+Entre otros estilos
+
+* **Operaciones:** Son las operaciones aritméticas que se pueden realizar, dichas operaciones con su signo correspondiente son las siguientes.
+	
+	* `Suma: +` 
