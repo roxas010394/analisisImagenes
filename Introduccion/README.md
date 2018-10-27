@@ -24,3 +24,12 @@ Entre otros estilos
 * **Operaciones:** Son las operaciones aritméticas que se pueden realizar, dichas operaciones con su signo correspondiente son las siguientes.
 	
 	* `Suma: +` 
+	* `Resta: -`
+	* `Multiplicación: *`
+	* `División: /`
+	* `Resta: -`
+	* `Asignación: =`
+	* `Mayor que/Mayor o igual que: > / >=`
+	* `Menor que/Menor o igual que: < / <=`
+	* `Igual que: ==`
+	* `Desigual que: !=`
