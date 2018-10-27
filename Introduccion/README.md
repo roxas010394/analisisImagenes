@@ -33,3 +33,10 @@ Entre otros estilos
 	* `Menor que/Menor o igual que: < / <=`
 	* `Igual que: ==`
 	* `Desigual que: !=`
+	* `O: or`
+	* `Y: and`
+	* `No: not`
+	* `O a nv de bits: |`
+	* `Y a nv de bits: &`
+	* `No a nv de bits: ~`
+	* `Corrimiento de bits: <</>>`
