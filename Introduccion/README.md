@@ -76,6 +76,15 @@ if <variable|valor> <Operador de comparación, puede ser <, >, <=, etc> <variabl
 else<En caso contrario>
 	<Bloque|Acción a realizar al no cumplir la condición>
 
-for i in range(0, 10, 2):
+for i in range(0, 11, 2):
 	print i
+
+#Este código ejemplifica el ciclo for, el cual imprime los números pares del 1 al 10, funciona con la siguiente sintaxis
+
+for <variable> in range(<inicio>, <final>, <paso>), donde paso es el salto que realizará entre los números por iteración
+
+while(a == 10):
+	a = a + 1
+#Este código ejemplifica el ciclo while, el cual incrementa la variable a hasta que llegue al número 10, funciona muy parecido al if
+
 ```
