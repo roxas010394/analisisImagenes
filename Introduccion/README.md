@@ -98,3 +98,12 @@ def <nombre de la funcion>(<parámetro1 = valor por default>, <parámetro2 = val
 	<bloque>
 
 	return <valor a regresar>
+```
+
+Ejemplo: Definamos una función que realice una suma de la siguiente manera
+```python
+def sumar(a, b):
+	return a + b
+
+print sumar(5, 7) #Imprime el valor 12
+```
