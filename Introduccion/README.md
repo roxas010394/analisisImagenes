@@ -57,3 +57,25 @@ Entre otros estilos
 	* `if-else: Condicional if`
 	* `for: Ciclo`
 	* `while: Ciclo`
+
+**Ejemplo**
+
+```python
+a = 10
+b = 7
+
+if a > b:
+	print "a es mayor que b"
+else:
+	print "a no es mayor que b"
+
+#La estructura de control if se compone de la siguiente sintaxis
+
+if <variable|valor> <Operador de comparación, puede ser <, >, <=, etc> <variable|valor>
+	<Bloque|Acción a realizar al cumplir la condición>
+else<En caso contrario>
+	<Bloque|Acción a realizar al no cumplir la condición>
+
+for i in range(0, 10, 2):
+	print i
+```
