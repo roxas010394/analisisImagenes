@@ -88,3 +88,13 @@ while(a == 10):
 #Este código ejemplifica el ciclo while, el cual incrementa la variable a hasta que llegue al número 10, funciona muy parecido al if
 
 ```
+
+### Funciones, módulos, colecciones e hilos
+
+* **Funciones:** Una funcíón es un bloque de código que realiza una tarea el cual regresa un valor mediante parámetros dados, aunque estas dos condiciones no son obligatorias, una función se define de la siguiente manera
+
+```python
+def <nombre de la funcion>(<parámetro1 = valor por default>, <parámetro2 = valor por default>, ..., <parámetroN>):
+	<bloque>
+
+	return <valor a regresar>
